@@ -116,7 +116,7 @@ git clone https://github.com/YOURUSERNAME/indygo-powerbi-dashboard.git
 
 <img width="560" height="350" alt="image" src="https://github.com/user-attachments/assets/7f190f26-c163-4f15-9c52-7d4cc8503bf1" />
 
-<img width="560" height="350" alt="image" src="https://github.com/user-attachments/assets/c1060599-fda2-4741-aa4d-1db3b73a4353" />
+<img width="678" height="333" alt="image" src="https://github.com/user-attachments/assets/bf71a211-7235-44c7-80a1-f3c6b1f9ada3" />
 
 <img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/d551d353-1484-4753-978f-6a4255cc419e" />
 
