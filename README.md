@@ -78,6 +78,7 @@ Evaluate coverage distribution and operational patterns.
 ---
 
 ## Repository Structure
+```
 indygo-powerbi-dashboard/
 │
 ├── dashboard/
@@ -92,10 +93,10 @@ indygo-powerbi-dashboard/
 │   └── Presentation.pptx
 │
 ├── design/
-│   └── Visualization Sketches
+│   └── Visualization_Sketches/
 │
 └── README.md
-
+```
 ---
 
 ## How to Run
